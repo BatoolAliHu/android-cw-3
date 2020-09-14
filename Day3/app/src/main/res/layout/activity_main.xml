@@ -55,7 +55,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="100dp"
         android:backgroundTint="#FA9DBD"
-        android:text="calculate"
+        android:text="adition"
         android:textAllCaps="false"
         android:textSize="20sp" />
 </RelativeLayout>
